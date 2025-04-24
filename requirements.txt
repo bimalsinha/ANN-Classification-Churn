@@ -7,7 +7,7 @@ tf-keras==2.18.0
 tensorflow-text==2.18.1
 protobuf==5.29.1
 ydf==0.11.0
-tensorflow-decision-forests==1.11.0
+tensorflow-decision-forests==1.12.0
 ml_dtypes==0.4.0
 jax==0.5.2
 tensorstore==0.1.73
