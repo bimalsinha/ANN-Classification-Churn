@@ -1,7 +1,7 @@
 scipy
 scikit-learn
 pandas==2.2.2
-numpy==1.23.5
+numpy>=1.26.0,<2.0.0
 tensorflow==2.18.0
 tf-keras==2.18.0 
 tensorflow-text==2.18.1
@@ -12,5 +12,8 @@ ml_dtypes==0.4.0
 jax==0.5.2
 tensorstore==0.1.73
 numba==0.60.0
+setuptools
+pip
+
 
 
